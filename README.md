@@ -10,12 +10,12 @@ Funcionalidades
 	•	Bloqueio de Publicação: Impede a publicação de conteúdos ofensivos, garantindo que a comunicação mantenha um nível aceitável.
 	•	Personalização: Permite a adição de novas palavras ao banco de dados de forma fácil e intuitiva.
 
- Contribuições
+ - Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
 
-Contato
+- Contato
 
 Para mais informações, entre em contato pelo e-mail: `kimalvesg@outlook.com`
 
-Criado por Kim Gomes
+- `Criado por Kim Gomes`
